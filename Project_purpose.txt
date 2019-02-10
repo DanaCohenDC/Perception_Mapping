@@ -1,0 +1,13 @@
+Perception mapping is a helping tool for making decisions. 
+For example: You need to investigate why people in your company leave's it, 
+therefore you have a list of all possible reasons from anonymous server. 
+Now you want to understand which of the causes you would like to handle first. So what do you need to do? 
+
+1. Create excel file with one column with title and your list.
+2. play Perception_Mapping.py (I've created an exe file  but it was too big for github, sorry)
+3. load your file
+4. If one reason leads to another then fill it in the "leads to" column
+5. If one reason conflicts with another then fill it in the "conflict3" column
+6. Let the program calculate the score and find for you the blocker (the one in your list which you'll prefer to handle first). 
+
+Finally, you can also see it in a graph and change "leds to" column values for other checks.
