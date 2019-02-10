@@ -11,3 +11,6 @@ Now you want to understand which of the causes you would like to handle first. S
 6. Let the program calculate the score and find for you the blocker (the one in your list which you'll prefer to handle first). 
 
 Finally, you can also see it in a graph and change "leds to" column values for other checks.
+
+
+**PLEASE NOTICE : my README file and test.dot file are not relly needed since I first used Graphviz for a nicer grapph, please ignor.
