@@ -1,3 +1,6 @@
+
+***** Please read Project_purpose.txt file first !!! ******
+
 For using Perception_Mapping.exe with the option to show representing graph,
 you'll need some extra installation.
 
@@ -27,8 +30,7 @@ you'll need some extra installation.
 
 
 That's all, enjoy the tool.
-For any further questions, feel free to call me:
-Dana +972 - 526535471
+
 			
 			
 			
